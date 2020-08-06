@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1591210291 source:/home/dmitriy/elcomp/elcomp/main.c
+	<stdio.h>
+	<stdbool.h>
+
+1596613813 source:/home/dmitriy/elcomp/main.c
+	<stdio.h>
+	<stdbool.h>
+	<string.h>
+
