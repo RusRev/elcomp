@@ -259,8 +259,7 @@ int ii=0;
                 ii=0;
             }
 
-        //if(strcmp(word,"stop")==0){stop(i);}
-        //memset(word, 0, sizeof word);
+
         LastNLsymbol=NLsymbol;
         NLsymbol++;
     }
